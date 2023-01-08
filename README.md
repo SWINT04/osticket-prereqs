@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/gbTQzwK.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Hello, welcome to my first tutorial! step one we will be creating a Virtual machine using the Microsoft Azure portal. We will be using a VM which is a remote computer. We are using a VM in order to create space and manage operating sysmtems. Create a resource group and name it "Rg-osTicket". Next we will create a VM with 2 or 4 CPUs. In the example above I will be using 4 CPUs.
+Hello and welcome, I will show you how to install Osticket. First we will be creating a Virtual machine using the Microsoft Azure portal. We will be using a VM which is a remote computer. We are using a VM in order to create space and manage operating sysmtems. Next we will Create a resource group and name it "Rg-osTicket". Then we will create a VM with 2 or 4 CPUs. In the example above I will be using 4 CPUs.
 </p>
 <br />
 
@@ -41,7 +41,7 @@ Hello, welcome to my first tutorial! step one we will be creating a Virtual mach
 <img src="https://i.imgur.com/XxsU46B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 2, we will connect to the virtual machine by using remote desktop connection or if you are a mac user like me we will be using the downloadable app called microsoft remote desktop. Next we will copy and paste the public ipv4 address to connect to our virtual machine.
+Next, we will connect to the virtual machine by using remote desktop connection or if you are a mac user like me we will be using the downloadable app called microsoft remote desktop. Next we will copy and paste the public ipv4 address to connect to our virtual machine.
 </p>
 <br />
 
@@ -49,6 +49,6 @@ Step 2, we will connect to the virtual machine by using remote desktop connectio
 <img src="https://i.imgur.com/2tx7zmC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next we are going to Install/Enable Internet Information Services (IIS) along with CGI.
 </p>
 <br />
