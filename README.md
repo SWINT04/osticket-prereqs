@@ -52,3 +52,6 @@ Next, we will connect to the virtual machine by using remote desktop connection 
 Next we are going to Install/Enable Internet Information Services (IIS) along with CGI.
 </p>
 <br />
+
+<p>
+<img src=https://i.imgur.com/qiO1C74.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
