@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/gbTQzwK.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hello, welcome to my first tutorial! step one we will be creating a Virtual machine using the Microsoft Azure portal. We will be using a VM which is a remote computer. We are using a VM in order to create space and manage operating sysmtems. Create a resource group and name it "Rg-osTicket". Next we will create a VM with 2 or 4 CPUs. In the example above I will be using 4 CPUs.
 </p>
 <br />
 
