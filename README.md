@@ -63,3 +63,14 @@ Fantastic. Now that you have enabled IIS and added CGI we need to download "Php 
 
 <p>
 <img src=https://i.imgur.com/D8WxClb.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next we are going Install "rewrite module" from the installation files.
+</p>
+<br /v
+
+<p>
+<img src=https://i.imgur.com/Vc5WJ5H.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</P>
+<P>
+Create the directory C:\PHP
