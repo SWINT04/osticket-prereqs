@@ -58,3 +58,8 @@ Next we are going to Install/Enable Internet Information Services (IIS) along wi
 </p>
 <p>
 Fantastic. Now that you have enabled IIS and added CGI we need to download "Php manager". I have provided a link here: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 That link will provide you with all of the material you need to download to get osTicket up and running. Next,you would need to click the link and install php manager for IIS.
+</P>
+<br /v
+
+<p>
+<img src=https://i.imgur.com/D8WxClb.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
