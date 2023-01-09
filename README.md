@@ -74,3 +74,11 @@ Next we are going Install "rewrite module" from the installation files.
 </P>
 <P>
 Create the directory C:\PHP
+</P>
+<br /v
+
+<p>
+<img src= https://i.imgur.com/tGZU7xq.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+From the Installation Files, download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) then extract all files into C:\PHP
