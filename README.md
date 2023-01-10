@@ -82,3 +82,11 @@ Create the directory C:\PHP
 </p>
 <p>
 From the Installation Files, download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) then extract all files into C:\PHP
+</p>
+<br /v
+
+<p>
+<img src= https://i.imgur.com/SLU8noU.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+From the Installation Files, download and install VC_redist.x86.exe.
