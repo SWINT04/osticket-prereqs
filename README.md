@@ -97,3 +97,10 @@ From the Installation Files, download and install VC_redist.x86.exe.
 </p>
 <p>
 In the installation files, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi). First hit typical-> check box that says "launch the MySQL instance configuration wizard"-> Hit finish, then hit next..click the box for standard config-> then click install as windows server->Type your preference for password-> continue into modify security settings; tap execute and hit finish. 
+</p>
+<br /v
+<p>
+<img src= https://i.imgur.com/DJzZVZj.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Right click IIS in the start menu, then click run as admin-> double click php manager-> register new php version-> browse php folder in windows C-> click php-cgi (if you don't see it there make sure next to file name it says php executable).Then click ok. 
