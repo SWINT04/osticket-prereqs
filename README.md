@@ -96,4 +96,4 @@ From the Installation Files, download and install VC_redist.x86.exe.
 <img src= https://i.imgur.com/4tjAqjk.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the installation files, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi). First hit typical then you want to make sure the box have a check where it says "launch the MySQL instance configuration wizard". Hit finish, then hit next..click the box for standard config then click install as windows server. Type your preference for password, continue into modify security settings; tap execute and hit finish. 
+In the installation files, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi). First hit typical-> check box that says "launch the MySQL instance configuration wizard"-> Hit finish, then hit next..click the box for standard config-> then click install as windows server->Type your preference for password-> continue into modify security settings; tap execute and hit finish. 
