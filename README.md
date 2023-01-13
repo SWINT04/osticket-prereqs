@@ -104,3 +104,10 @@ In the installation files, download and install MySQL 5.5.62 (mysql-5.5.62-win32
 </p>
 <p>
 Right click IIS in the start menu, then click run as admin-> double click php manager-> register new php version-> browse php folder in windows C-> click php-cgi (if you don't see it there make sure next to file name it says php executable).Then click ok. 
+</p>
+<br /v
+<p>
+<img src= https://i.imgur.com/W3gkHKG.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next we will install Osticket from the installation files. Go to downloads, then open the file folder "osticket" in a new tab-> next open windows (C:)-> open inetpub-> open wwwroot-> drag folder "uplodad" into wwwroot. Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”.
