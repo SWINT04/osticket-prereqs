@@ -162,6 +162,7 @@ From the installation Files download and install Heidi SQL. Open Heidi SQL, crea
 create a database called osTicket, Open heidi Sql. Right click on unamed, then create a new database. Name it osTicket.  
 </p>
 <br /v
+<p>
 <img src= https://i.imgur.com/qVtTO1N.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
