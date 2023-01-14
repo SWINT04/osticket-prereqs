@@ -153,3 +153,10 @@ Continue Setting up osTicket in the browser (click continue). Name the helpdesk 
 </p>
 <p>
 From the installation Files download and install Heidi SQL. Open Heidi SQL, create a new session and use the same password used for my sql username root password:Password1.  
+</p>
+<br /v
+<p>
+<img src= https://i.imgur.com/uahEe94.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+create a database called osTicket, Open heidi Sql. Right click on unamed, then create a new database. Name it osTicket.  
