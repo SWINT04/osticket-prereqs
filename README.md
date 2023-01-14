@@ -117,4 +117,18 @@ Next we will install Osticket from the installation files. Go to downloads, then
 <img src= https://i.imgur.com/bm6A0aY.png width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Reload IIS (Open, then click restart). tap sites--> Default web site-->click osticket--> click browse *:80 (http) and congrats it is now installed. 
+Reload IIS (Open, then click restart). tap sites--> Default web site-->click osticket--> click browse *:80 (http). From here you should be able to see osticket.
+</p>
+<br /v
+<p>
+<img src= https://i.imgur.com/7IdcEEQ.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+in the last step there were extentions missing, so what we are going to do is enable them. open IIS manager-> click php manager-> click enable or disable an extension-> enable php_imap.dll -> enable php_ intl.dll-> enable php_opache.dll. Referesh osticket and view the changes.
+</p>
+<br /v
+<p>
+<img src= https://i.imgur.com/u9JR2cS.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next we will rename the following folder from windows c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php -> windows c:\inetpub\wwwroot\osTicket\include\ost-config.php.
