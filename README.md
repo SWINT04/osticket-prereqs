@@ -146,3 +146,10 @@ Right click ost-config.php-> click properties-> click security-> click advanced-
 </p>
 <p>
 Continue Setting up osTicket in the browser (click continue). Name the helpdesk and setup a deault email address. 
+</p>
+<br /v
+<p>
+<img src=https://i.imgur.com/Qy9EKMR.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+From the installation Files download and install Heidi SQL. Open Heidi SQL, create a new session and use the same password used for my sql username root password:Password1.  
