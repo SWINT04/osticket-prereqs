@@ -132,3 +132,10 @@ in the last step there were extentions missing, so what we are going to do is en
 </p>
 <p>
 Next we will rename the following folder from windows c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php -> windows c:\inetpub\wwwroot\osTicket\include\ost-config.php.
+</p>
+<br /v
+<p>
+<img src= https://i.imgur.com/lspMkHR.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Right click ost-config.php-> click properties-> click security-> click advanced-> click disable inheritance-> click add then select principle-> type everyone then check names->click ok and make sure you check full permissisonslick check names-> click ok, then apply and  okay again.   
