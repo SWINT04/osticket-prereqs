@@ -160,3 +160,9 @@ From the installation Files download and install Heidi SQL. Open Heidi SQL, crea
 </p>
 <p>
 create a database called osTicket, Open heidi Sql. Right click on unamed, then create a new database. Name it osTicket.  
+</p>
+<br /v
+<img src= https://i.imgur.com/qVtTO1N.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the osTicket browser continue setting it up. My SQL Database: osTicket  My SQL Username: root MySQL Username: root My SQL password: Password1 and finally click "install now!" CONGRATS! hopefully it is installed with no errors.
