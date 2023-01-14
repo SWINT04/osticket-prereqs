@@ -139,3 +139,10 @@ Next we will rename the following folder from windows c:\inetpub\wwwroot\osTicke
 </p>
 <p>
 Right click ost-config.php-> click properties-> click security-> click advanced-> click disable inheritance-> click add then select principle-> type everyone then check names->click ok and make sure you check full permissisonslick check names-> click ok, then apply and  okay again.   
+</p>
+<br /v
+<p>
+<img src= https://i.imgur.com/03bIqor.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Continue Setting up osTicket in the browser (click continue). Name the helpdesk and setup a deault email address. 
