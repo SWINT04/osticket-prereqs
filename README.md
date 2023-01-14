@@ -111,3 +111,10 @@ Right click IIS in the start menu, then click run as admin-> double click php ma
 </p>
 <p>
 Next we will install Osticket from the installation files. Go to downloads, then open the file folder "osticket" in a new tab-> next open windows (C:)-> open inetpub-> open wwwroot-> drag folder "uplodad" into wwwroot. Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”.
+</p>
+<br /v
+<p>
+<img src= https://i.imgur.com/bm6A0aY.png width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Reload IIS (Open, then click restart). tap sites--> Default web site-->click osticket--> click browse *:80 (http) and congrats it is now installed. 
