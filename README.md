@@ -54,6 +54,7 @@ Next we are going to Install/Enable Internet Information Services (IIS) along wi
 </p>
 <p>
 Next we need to download "Php manager". Here is a link for all the files you need to download to set up osTicket: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6. 
+</p>
 <br /v
 
 <p>
@@ -91,7 +92,7 @@ From the Installation Files, download and install VC_redist.x86.exe.
 <img src= https://i.imgur.com/4tjAqjk.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the installation files, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi). First hit typical-> check box that says "launch the MySQL instance configuration wizard"-> Hit finish, then hit next..click the box for standard config-> then click install as windows server->Type your preference for password-> continue into modify security settings; tap execute and hit finish. 
+In the installation files, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi). First hit typical-> check box that reads "launch the MySQL instance configuration wizard"-> Hit finish, then hit next..click the box for standard config-> then click install as windows server->Type your preference for password-> continue into modify security settings; tap execute and hit finish. 
 </p>
 <br /v
 <p>
@@ -147,7 +148,7 @@ Continue Setting up osTicket in the browser (click continue). Name the helpdesk 
 <img src=https://i.imgur.com/Qy9EKMR.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From the installation Files download and install Heidi SQL. Open Heidi SQL, create a new session and use the same password used for my sql username root password:Password1.  
+Download and install Heidi SQL from the installation files.Open Heidi SQL, create a new session and use the same password used for my sql username root password, which is Password1.  
 </p>
 <br /v
 <p>
@@ -161,4 +162,4 @@ create a database called osTicket, Open heidi Sql. Right click on unamed, then c
 <img src= https://i.imgur.com/qVtTO1N.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the osTicket browser continue setting it up. My SQL Database: osTicket  My SQL Username: root MySQL Username: root My SQL password: Password1 and finally click "install now!" CONGRATS! hopefully it is installed with no errors.
+In the osTicket browser continue setting it up. My SQL Database: osTicket  My SQL Username: root MySQL Username: root My SQL password: Password1 and click install now. CONGRATS! hopefully it is installed with no errors.
